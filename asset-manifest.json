@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3f8c4ce8.css",
+    "main.js": "/static/js/main.338c2bce.js",
+    "static/media/Bull&Bears.png": "/static/media/Bull&Bears.3fba6901489f5d3617ec.png",
+    "index.html": "/index.html",
+    "main.3f8c4ce8.css.map": "/static/css/main.3f8c4ce8.css.map",
+    "main.338c2bce.js.map": "/static/js/main.338c2bce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f8c4ce8.css",
+    "static/js/main.338c2bce.js"
+  ]
+}
