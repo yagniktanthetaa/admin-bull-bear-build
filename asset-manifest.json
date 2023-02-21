@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.3f8c4ce8.css",
-    "main.js": "/static/js/main.e35b3e32.js",
+    "main.css": "/static/css/main.00cb6df0.css",
+    "main.js": "/static/js/main.be0a0345.js",
     "static/media/Bull&Bears.png": "/static/media/Bull&Bears.3fba6901489f5d3617ec.png",
     "index.html": "/index.html",
-    "main.3f8c4ce8.css.map": "/static/css/main.3f8c4ce8.css.map",
-    "main.e35b3e32.js.map": "/static/js/main.e35b3e32.js.map"
+    "main.00cb6df0.css.map": "/static/css/main.00cb6df0.css.map",
+    "main.be0a0345.js.map": "/static/js/main.be0a0345.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f8c4ce8.css",
-    "static/js/main.e35b3e32.js"
+    "static/css/main.00cb6df0.css",
+    "static/js/main.be0a0345.js"
   ]
 }
